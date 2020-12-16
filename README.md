@@ -9,7 +9,7 @@ The bot mainly looks for words that seem sad, like depressed, or unhappy, etc. T
 ## Check out the bot - <a href="https://discord.gg/ncdgFYYZ">Test</a>
 Join the server and type down any of the commands found below to test the bot out!<br>
 This server also has another bot made by me. I used a random advice API for this one and is kinda funny.<br>
-Visit this repo for more info!
+Visit <a href="https://github.com/Aakarsh-B/Random-Advice-Discord-Bot">this repo</a> for more info!
 
 ## Bot commands
 Command | What it does | Example
